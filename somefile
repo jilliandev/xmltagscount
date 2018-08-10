@@ -1,0 +1,17 @@
+<goods>
+	<sport>
+		<balls>
+			<basketball>
+				<size>9</size>
+				<cost>12</cost>
+			</basketball>
+			<football>
+				<size>11</size>
+				<cost>15</cost>
+			</football>
+		</balls>
+		<clothes>
+			<boots>for man</boots>
+		</clothes>
+	</sport>
+</goods>
